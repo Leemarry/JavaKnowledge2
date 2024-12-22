@@ -1,4 +1,4 @@
-package com.example.javaknowledge2.test;
+package com.example.javaknowledge2.utils.SnowflakeIdGenerator;
 
 public class SnowflakeIdGenerator {
 

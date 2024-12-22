@@ -1,4 +1,4 @@
-package com.example.javaknowledge2.test.ThreadQuestion;
+package com.example.javaknowledge2.test.Thread.ThreadQuestion;
 
 import com.example.javaknowledge2.demos.service.ThreadPoolManager;
 

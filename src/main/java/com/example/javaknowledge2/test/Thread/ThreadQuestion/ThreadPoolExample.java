@@ -1,10 +1,11 @@
-package com.example.javaknowledge2.test.ThreadQuestion;
+package com.example.javaknowledge2.test.Thread.ThreadQuestion;
 
 import com.example.javaknowledge2.demos.service.ThreadPoolManager;
 
 import java.util.ArrayList;
 import java.util.List;
 
+// 线程池示例
 public class ThreadPoolExample {
 
     public static void main(String[] args) throws InterruptedException {

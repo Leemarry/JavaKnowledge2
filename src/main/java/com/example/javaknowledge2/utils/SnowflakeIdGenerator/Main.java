@@ -1,4 +1,6 @@
-package com.example.javaknowledge2.test;
+package com.example.javaknowledge2.utils.SnowflakeIdGenerator;
+
+import com.example.javaknowledge2.utils.SnowflakeIdGenerator.SnowflakeIdGenerator;
 
 public class Main {
     public static void main(String[] args) {
