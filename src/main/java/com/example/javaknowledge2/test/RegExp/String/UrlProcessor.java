@@ -1,4 +1,4 @@
-package com.example.javaknowledge2.test.String;
+package com.example.javaknowledge2.test.RegExp.String;
 
 public class UrlProcessor {
 

@@ -1,4 +1,4 @@
-package com.example.javaknowledge2.test.String;
+package com.example.javaknowledge2.test.RegExp.String;
 
 import java.io.BufferedReader;
 import java.io.IOException;
