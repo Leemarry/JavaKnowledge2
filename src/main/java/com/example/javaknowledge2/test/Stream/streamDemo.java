@@ -1,6 +1,5 @@
-package com.example.javaknowledge2.test.stream;
+package com.example.javaknowledge2.test.Stream;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
