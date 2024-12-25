@@ -55,7 +55,7 @@ public class ZipCs {
                 System.out.println("文件不存在！");
                 return;
             }
-            // 读取文件内容
+            // 读取文件内容ok
             String content = "";
 //            try(InputStreamReader inputStreamReader = new InputStreamReader(zipFile.getInputStream(entry))){
 //                int len = 0;
